@@ -1,4 +1,3 @@
-# C#
 # Operadores e instruções de decisão
 
 ### Operadores
